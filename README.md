@@ -34,6 +34,6 @@
     <img height="28" align="middle" src="./img/GitLab.png" title="GitLab" alt="GitLab: @Despenrado"/>
   </a>
 
-- <a href="https://gitlab.com/Despenrado">
+- <a href="https://github.com/Despenrado">
     <img height="31" align="middle" src="./img/github.png" title="Github" alt="Github: Despenrado"/>
   </a>
