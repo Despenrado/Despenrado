@@ -1,5 +1,3 @@
-<body style="background-color:#1A1B27;">
-
 ## Hello there
 
 - 🌱 I’m currently learning ... Go (Golang)
@@ -37,4 +35,3 @@
 - <a href="https://github.com/Despenrado">
     <img height="31" align="middle" src="./img/github.png" title="Github" alt="Github: Despenrado"/>
   </a>
-   </body>
