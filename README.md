@@ -1,3 +1,5 @@
+<body style="background-color:#1A1B27;">
+   </body>
 ## Hello there
 
 - 🌱 I’m currently learning ... Go (Golang)
@@ -5,9 +7,8 @@
 ### Connect with me
 
   <a href="https://www.linkedin.com/in/stepanenko-nikita-3882001a3">
-    <img height="30" align="middle" src="./img/LinkedIn_Logo.png" title="Linked in" alt="Nikita Stepanenko"/>
+    <img height="31" align="middle" src="./img/LinkedIn_Logo.png" title="Linked in" alt="Nikita Stepanenko"/>
   </a>
-  </br>
 
 ### Languages and Tools:
 
@@ -21,11 +22,10 @@
 <!-- <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" title="OpenGL" alt="OpenGL"></code> -->
 
   <a href="https://github.com/Despenrado">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Despenrado&theme=tokyonight" title="this graph does not show my language skills" alt="Ooops something went wrong"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Despenrado&count_private=true&theme=tokyonight&hide_border=true&disable_animations=true" title="this graph does not show my language skills" alt="Ooops something went wrong"/>
   </a>
-<br />
   <a href="https://github.com/Despenrado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Despenrado&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Despenrado's github stats" alt="Ooops something went wrong"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Despenrado&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true&hide_rank=true" alt="Despenrado's github stats" alt="Ooops something went wrong"/>
   </a>
 
 ### Links to other projects:
