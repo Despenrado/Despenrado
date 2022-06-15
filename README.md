@@ -1,6 +1,5 @@
 ## Hello there
 
-- 🌱 I’m currently learning ... Go (Golang)
 
 ### Connect with me
 
