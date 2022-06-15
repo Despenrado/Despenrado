@@ -25,7 +25,7 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Despenrado&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true&hide_rank=true" alt="Despenrado's github stats" alt="Ooops something went wrong"/>
   </a>
 
-### Links to other projects:
+### Other links:
 
 - <a href="https://gitlab.com/Despenrado">
     <img height="28" align="middle" src="./img/GitLab.png" title="GitLab" alt="GitLab: @Despenrado"/>
