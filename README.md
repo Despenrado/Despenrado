@@ -3,7 +3,7 @@
 
 ### Connect with me
 
-  <a href="https://www.linkedin.com/in/stepanenko-nikita-3882001a3">
+  <a href="https://www.linkedin.com/in/nikita-stepanenko-3882001a3/">
     <img height="45" align="middle" src="./img/LinkedIn_Logo.png" title="Linked in" alt="Nikita Stepanenko"/>
   </a>
 
